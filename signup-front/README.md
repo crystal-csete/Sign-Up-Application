@@ -1,3 +1,4 @@
+<!-- @format -->
 
 # Sign-Up-Application
 
@@ -7,7 +8,7 @@ This was created using a create-react-app.
 
 ########################################
 
-To get this app up and running, first you need to cd into the root of the directory: "allsignups". Then, cd into the main folder: "signup-front".
+To get this app up and running, first you need to cd into the root of the directory. Then, cd into the main folder: "signup-front".
 
 ########################################
 
@@ -15,4 +16,6 @@ Then type: "npm install". Next, in a seperate terminal, repeat the above steps, 
 
 ########################################
 
-Then type: "npm start" in each of your terminals. Make a .env file in the "signup-backend" folder. This will hold your secrets. In file "server.js", the variable DATABASE_URL is what this refers to. This variable will hold your Mongodb secrets that is in your .env file.
+Then type: "npm start" in each of your terminals. Make a .env file in the "signup-backend" folder. This will hold your secrets. In file "server.js", the variable DATABASE_URL is what this refers to. This variable will hold your Mongodb secrets that is in your .env file. This should get you up and running!
+
+Happy coding!
