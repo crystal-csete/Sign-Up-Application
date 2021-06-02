@@ -8,7 +8,7 @@ This was created using a create-react-app.
 
 ########################################
 
-To get this app up and running, first you need to cd into the root of the directory: "allsignups". Then, cd into the main folder: "signup-front".
+To get this app up and running, first you need to cd into the root of the directory. Then, cd into the main folder: "signup-front".
 
 ########################################
 
